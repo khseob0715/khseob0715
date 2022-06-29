@@ -2,8 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=khseob0715&layout=compact&theme=dracula&locale=kr)
 
-![](https://github-readme-stats.vercel.app/api?username=khseob0715&show_icons=true&theme=dracula&locale=kr)
-
+![](https://github-readme-stats.vercel.app/api?username=khseob0715&show_icons=true&theme=dracula&locale=kr&count_private=true)
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
