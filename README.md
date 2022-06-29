@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=khseob0715&layout=compact&theme=dracula&locale=kr)
 
-![](https://github-readme-stats.vercel.app/api?username=khseob0715&show_icons=true&theme=dracula&locale=kr&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=khseob0715&show_icons=true&theme=dracula&locale=kr&count_private=true&include_all_commits=true)
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
@@ -30,8 +30,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
-	![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
- ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
  
 <!--
 **khseob0715/khseob0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
