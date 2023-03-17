@@ -2,9 +2,8 @@
 
 ### Hi there 👋
 
-<p align="justify">
+<p style="text-align: justify;">
 I am a researcher working with the Digital eXPerience Lab as a doctoral student in computer science at Korea University (2023.03~current). 
- 
 I am focusing my efforts on the area of virtual/augmented reality and HCI. 
 One of the most fascinating fields of study for me is how people interact with digital humans in the real world!
 
@@ -20,6 +19,7 @@ In the meantime, I received a master's degree in computer science at Korea Unive
 After finishing my master's degree, I continued my research in KIST (2019.01~2023.02) and conducted interesting projects using virtual agents, including a non-face-to-face medical questionnaire system to prevent infectious diseases in collaboration with Korea University's Anam Hospital, a psychological counseling system, and a 3D pre-visualized animation automation system from a movie script.
 </p>
 
+You can check my CV here at the [link](https://docs.google.com/document/d/1HAyk1eK33zK1E_QaqdcX-DCAJ7I7RSIU/edit?rtpof=true&sd=true)
 
 </br>
 </br>
