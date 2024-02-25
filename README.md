@@ -7,8 +7,8 @@ You can check my CV here at the [link](https://docs.google.com/document/d/1HAyk1
 </br>
 </br>
 </br>
-
-![](https://github-readme-stats.vercel.app/api?username=khseob0715&show_icons=true&theme=dracula&count_private=true&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs?username=khseob0715&layout=compact&theme=dracula)
+<!--
+![](https://github-readme-stats.vercel.app/api?username=khseob0715&show_icons=true&theme=dracula&count_private=true&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs?username=khseob0715&layout=compact&theme=dracula)-->
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ### 💪 Skills
