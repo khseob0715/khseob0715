@@ -2,23 +2,6 @@
 
 ### Hi there 👋
 
-<p style="text-align: justify;">
-I am a researcher working with the Digital eXPerience Lab as a doctoral student in computer science at Korea University (2023.03~current). 
-I am focusing my efforts on the area of virtual/augmented reality and HCI. 
-One of the most fascinating fields of study for me is how people interact with digital humans in the real world!
-
-
-I received a B.S. degree in computer science and engineering from Chosun University, Republic of Korea, Gwangju (2013.03~2019.02). At the time, I was an undergraduate researcher in the Visual Computing Lab. As a researcher, I developed a variety of VR systems, including shooting game, criminal profiling training, travel using treadmill equipment and 360 degree videos, and rehabilitation training using LEAP motion, as well as AR content where users can experience fairy tales.
-
-
-After I graduated, I started working as an intern researcher in the Mixed Reality Lab at the Korea Institute of Science and Technology (KIST), Center for Artificial Intelligence, Republic of Korea, Seoul. Initially, I created a virtual agent capable of introducing zoo animals using AI/AR technology and managed collaboration with other groups. 
-
-In the meantime, I received a master's degree in computer science at Korea University via a KIST-collaborative course (2019.09~2021.08). I worked in the Digital eXPerience Lab and was co-supervised by the Academy and the Research Institute. I mainly conducted research on virtual humans, specifically to address perceptual issues that can arise during interactions between users and virtual humans. As a result, I received the 2021 Outstanding Graduate Student Award from KIST.
-
-
-After finishing my master's degree, I continued my research in KIST (2019.01~2023.02) and conducted interesting projects using virtual agents, including a non-face-to-face medical questionnaire system to prevent infectious diseases in collaboration with Korea University's Anam Hospital, a psychological counseling system, and a 3D pre-visualized animation automation system from a movie script.
-</p>
-
 You can check my CV here at the [link](https://docs.google.com/document/d/1HAyk1eK33zK1E_QaqdcX-DCAJ7I7RSIU/edit?rtpof=true&sd=true)
 
 </br>
